@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer , React Developer , Frontend Developer , Designer.</h3>
 
 
-<img align="right" alt="Hey" Width="400"  src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinghthakur197&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinghthakur197" /> </p>
 
@@ -11,6 +11,9 @@
 - 📫 How to reach me **abhaysinghthakur.982@gmail.com**
 
 - ⚡ Fun fact **I am CEO of my company.**
+
+
+<img align="right" alt="Hey" Width="400"  src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
