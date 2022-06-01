@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer , React Developer , Frontend Developer , Designer.</h3>
 
 
-<img alt="Hey" Width="400"  src="https://dribbble.com/shots/16009735-Hi-friend" />
+<img align="right" alt="Hey" Width="400"  src="https://dribbble.com/shots/16009735-Hi-friend" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinghthakur197&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinghthakur197" /> </p>
 
 - 🌱 I’m currently learning **AWS and Data Structure and Algorithm**
