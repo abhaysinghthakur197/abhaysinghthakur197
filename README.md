@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I am CEO of my company.**
 
 
-<img align="right" alt="Hey" Width="400"  src="https://cdn.dribbble.com/users/489430/screenshots/5946412/personnage.gif" >
+<img align="right" alt="Hey" Width="400"  src="https://i.pinimg.com/originals/9f/c2/12/9fc2126eec2c0a3876e3f2097af9b983.gif" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
