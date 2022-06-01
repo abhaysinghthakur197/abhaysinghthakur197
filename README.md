@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Programmer , React Developer , Frontend Developer , Designer.</h3>
 
 
-<!-- <img align="right" alt="Hey" Width="400"  src="https://dribbble.com/shots/5106121-Say-Hi" > -->
-<div class="tenor-gif-embed" data-postid="17010845" data-share-method="host" data-aspect-ratio="1.2549" data-width="100%"><a href="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845">Quby Chan Hi GIF</a>from <a href="https://tenor.com/search/quby+chan-gifs">Quby Chan GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Hey" Width="400"  src="https://tenor.com/view/quby-chan-hi-wave-hello-hi-there-gif-17010845" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinghthakur197&label=Profile%20views&color=0e75b6&style=flat" alt="abhaysinghthakur197" /> </p>
 
 - 🌱 I’m currently learning **AWS and Data Structure and Algorithm**
